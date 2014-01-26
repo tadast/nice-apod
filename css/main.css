@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5em;
+  color: #333;
+}
+img {
+  max-width: 100%;
+}
+p {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  margin-top: 1em;
+}
+a, a:visited, a:active {
+  color: #001F3F;
+}
+center:first-of-type p {
+  font-size: 0.75em;
+}
+center:last-of-type p:last-child, center:last-of-type p:last-child a {
+  font-size: 0.85em;
+  color: #777;
+}

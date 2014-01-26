@@ -2,6 +2,11 @@
 
 A Google Chrome extension to make [NASA's Astronomy Picture of the Day](http://apod.nasa.gov/apod/) website look nicer.
 
+## Instalation
+
+[Google Chrome Store](https://chrome.google.com/webstore/detail/nice-apod/jlnomhbpddlchjhndafjommmbchfobjc)
+
+To install locally download this repo, open Tools -> Extensions, enable developer mode and drag-and-drop the folder/zip onto the extentions window.
 
 ## Preview:
 

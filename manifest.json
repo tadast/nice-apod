@@ -15,5 +15,5 @@
       "js": ["main.js"]
     }
   ],
-  "permissions": ["tabs", "http://apod.nasa.gov/apod/*"]
+  "permissions": ["http://apod.nasa.gov/apod/*"]
 }
